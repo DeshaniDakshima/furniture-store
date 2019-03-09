@@ -1,0 +1,17 @@
+.carousel-item{
+    height: 600px;
+}
+.carousel-image-1{
+    background: url("../image/apartment-clean-condominium-279719.jpg");
+    background-size: cover; 
+}
+.carousel-image-2{
+    background: url("../image/1.jpg");
+    background-size: cover; 
+}
+.carousel-image-3{
+    background: url("../image/apartment-chair-contemporary-259580.jpg");
+    background-size: cover; 
+}
+
+
